@@ -1,0 +1,36 @@
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.pdb
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.pdb
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\appsettings.json
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.deps.json
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.pdb
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.pdb
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.pdb
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.pdb
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\appsettings.json

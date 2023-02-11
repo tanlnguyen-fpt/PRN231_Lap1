@@ -1,0 +1,28 @@
+﻿@model BusinessObjects.Product
+@{
+    ViewData["Title"] = "Delete product";
+}
+
+<h1>Product Details</h1>
+
+<form>
+  <div class="form-group mb-3">
+    <label class="mb-2" for="product-name">Product Name</label>
+    <input type="text" class="form-control" id="product-name" placeholder="Enter name of product" asp-for="ProductName" readonly>
+  </div>
+
+  <div class="form-group mb-3">
+    <label class="mb-2" for="unit-in-stock">Unit In Stock</label>
+    <input type="text" class="form-control" id="product-name" placeholder="Enter name of product" asp-for="UnitInStock" readonly>
+  </div>
+
+  <div class="form-group mb-3">
+    <label class="mb-2" for="unit-price">Unit Price</label>
+    <input type="text" class="form-control" id="product-name" placeholder="Enter name of product" asp-for="UnitPrice" readonly>
+  </div>
+
+  <div class="form-group mb-3">
+    <label class="mb-2 d-block" for="category">Category</label>
+    <input type="text" class="form-control" id="product-name" placeholder="Enter name of product" asp-for="Category.CategoryName" readonly>
+  </div>
+</form>

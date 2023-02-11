@@ -1,0 +1,536 @@
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.json
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.exe
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.deps.json
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.runtimeconfig.json
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.pdb
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Humanizer.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\MessagePack.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Common.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.pdb
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.pdb
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.pdb
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.AssemblyReference.cache
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfoInputs.cache
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfo.cs
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CoreCompileInputs.cache
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\scopedcss\bundle\ProjectManagementAPI.styles.css
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CopyComplete
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\refint\ProjectManagementAPI.dll
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.pdb
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.genruntimeconfig.cache
+F:\.NET\_PRN\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ref\ProjectManagementAPI.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.json
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.exe
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.deps.json
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.runtimeconfig.json
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.pdb
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Humanizer.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\MessagePack.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Common.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.pdb
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.pdb
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.pdb
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.AssemblyReference.cache
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfoInputs.cache
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfo.cs
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CoreCompileInputs.cache
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\scopedcss\bundle\ProjectManagementAPI.styles.css
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CopyComplete
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\refint\ProjectManagementAPI.dll
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.pdb
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.genruntimeconfig.cache
+E:\FPT Courses\PRN231\Code\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ref\ProjectManagementAPI.dll
