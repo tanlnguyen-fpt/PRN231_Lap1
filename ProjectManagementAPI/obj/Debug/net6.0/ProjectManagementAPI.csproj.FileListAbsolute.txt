@@ -1,0 +1,268 @@
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.json
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.exe
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.deps.json
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.runtimeconfig.json
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.pdb
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.AssemblyReference.cache
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfoInputs.cache
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfo.cs
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CoreCompileInputs.cache
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\scopedcss\bundle\ProjectManagementAPI.styles.css
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CopyComplete
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\refint\ProjectManagementAPI.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.pdb
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.genruntimeconfig.cache
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ref\ProjectManagementAPI.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.pdb
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.pdb
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.pdb
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.json
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.exe
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.deps.json
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.runtimeconfig.json
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.pdb
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.pdb
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.pdb
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.pdb
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.AssemblyReference.cache
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfoInputs.cache
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfo.cs
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CoreCompileInputs.cache
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\scopedcss\bundle\ProjectManagementAPI.styles.css
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CopyComplete
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\refint\ProjectManagementAPI.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.pdb
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.genruntimeconfig.cache
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ref\ProjectManagementAPI.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.exe
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.deps.json
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.runtimeconfig.json
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.pdb
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.AssemblyReference.cache
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfoInputs.cache
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfo.cs
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\scopedcss\bundle\ProjectManagementAPI.styles.css
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CopyComplete
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\refint\ProjectManagementAPI.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.pdb
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.genruntimeconfig.cache
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ref\ProjectManagementAPI.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.exe
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.deps.json
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.runtimeconfig.json
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\ProjectManagementAPI.pdb
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\Repositories.pdb
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.AssemblyReference.cache
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfoInputs.cache
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.AssemblyInfo.cs
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\scopedcss\bundle\ProjectManagementAPI.styles.css
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.csproj.CopyComplete
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\refint\ProjectManagementAPI.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.pdb
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ProjectManagementAPI.genruntimeconfig.cache
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\ProjectManagementAPI\obj\Debug\net6.0\ref\ProjectManagementAPI.dll

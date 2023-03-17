@@ -1,0 +1,69 @@
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.pdb
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.pdb
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\fpt\code\C#\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.pdb
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.pdb
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\Learning\Semester 8\PRN331\Lab1_Rework\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\Trung\OneDrive\Máy tính\assignment\Lab01_ASP.NETCoreWebAPI\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\tan01\Documents\Ki8\PRN231\Lab01_ASP.NETCoreWebAPI\Repositories\bin\Debug\net6.0\appsettings.json

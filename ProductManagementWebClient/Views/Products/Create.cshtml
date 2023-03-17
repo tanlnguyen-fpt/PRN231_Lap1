@@ -1,0 +1,48 @@
+﻿@model BusinessObjects.Product
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create Product</h1>
+
+@using (Html.BeginForm())   
+{  
+    @Html.AntiForgeryToken()  
+      
+    <div class="form-horizontal">   
+        <div class="form-group mb-3">  
+            @Html.LabelFor(model => model.ProductName, htmlAttributes: new { @class = "control-label col-md-2" })  
+            <div>  
+                @Html.EditorFor(model => model.ProductName, new { htmlAttributes = new { @class = "form-control" } })  
+                @Html.ValidationMessageFor(model => model.ProductName, "", new { @class = "text-danger" })  
+            </div>  
+        </div>  
+  
+        <div class="form-group mb-3">  
+            @Html.LabelFor(model => model.UnitInStock, htmlAttributes: new { @class = "control-label col-md-2" })  
+            <div>  
+                @Html.EditorFor(model => model.UnitInStock, new { htmlAttributes = new { @class = "form-control" } })  
+                @Html.ValidationMessageFor(model => model.UnitInStock, "", new { @class = "text-danger" })  
+            </div>  
+        </div>  
+  
+        <div class="form-group mb-3">  
+            @Html.LabelFor(model => model.UnitPrice, htmlAttributes: new { @class = "control-label col-md-2" })  
+            <div>  
+                @Html.EditorFor(model => model.UnitPrice, new { htmlAttributes = new { @class = "form-control" } })  
+                @Html.ValidationMessageFor(model => model.UnitPrice, "", new { @class = "text-danger" })  
+            </div>  
+        </div>  
+
+        <div class="form-group mb-3">  
+            @Html.LabelFor(model => model.Category, htmlAttributes: new { @class = "control-label col-md-2" })  
+            <div>  
+                @Html.DropDownListFor(model => model.CategoryId, new SelectList(ViewBag.ListCategory, "CategoryId", "CategoryName"), new {@class = "form-select"})
+                @Html.ValidationMessageFor(model => model.Category, "", new { @class = "text-danger" })  
+            </div>  
+        </div>
+  
+        
+        <button type="submit" class="d-block btn btn-primary" style="text-align: center; margin: 0 auto; width: 120px;" value="Create">Create</button>
+    </div>  
+} 
